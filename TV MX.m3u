@@ -1,0 +1,199 @@
+#EXTM3U
+#EXTINF:-1 group-title="POPULARES" tvg-logo="https://i.imgur.com/g5ShxZ7.png", Las Estrellas multicalidad
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png" group-title="POPULARES", Las Estrellas SD op¹
+http://ak-47scan.dyndns.tv:25461/Wily1/PURTC6uBDF2H/494053
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png" group-title="POPULARES", Canal 5 SD
+http://liontv.es:8080/live/Edgari2023/Edgari2023/785977.m3u8
+#EXTINF:-1 group-title="Canales sd",De Pelicula
+http://205.235.6.29:8000/play/a0z7/index.m3u8
+#EXTINF:-1 group-title="Canales sd",Discovery Channel  HD
+http://205.235.6.29:8000/play/a0yq/index.m3u8
+#EXTINF:-1 group-title="Canales sd",Discovery H&H
+http://205.235.6.29:8000/play/a0y6/index.m3u8
+#EXTINF:-1 group-title="Canales sd",Disney Jr.
+http://205.235.6.29:8000/play/a0zj/index.m3u8
+#EXTINF:-1 group-title="POPULARES" tvg-logo="https://files.catbox.moe/g5gku0.png",Distrito Comedia
+http://playtvofclat.vip:80/live/9C00D37FA61B/D37FA61B9C00/317517.m3u8
+#EXTINF:-1 group-title="POPULARES" tvg-logo="https://files.catbox.moe/g5gku0.png", Distrito Comedia Op2
+http://liontv.es:8080/live/Edgari2023/Edgari2023/1457773.m3u8
+#EXTINF:-1 tvg-id="492753" tvg-name="[izzi] HBO HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png" group-title="TV | IZZI FULL + PPVS", [izzi] HBO HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492753
+#EXTINF:-1 tvg-id="492755" tvg-name="[izzi] HBO PLUS HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png" group-title="TV | IZZI FULL + PPVS", [izzi] HBO PLUS HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492755
+#EXTINF:-1 tvg-id="492756" tvg-name="[izzi] HBO POP HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-pop-us.png" group-title="TV | IZZI FULL + PPVS", [izzi] HBO POP HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492756
+#EXTINF:-1 tvg-id="492757" tvg-name="[izzi] HBO SIGNATURE HD" tvg-logo="https://logos.xbots.com.mx/3940.png" group-title="TV | IZZI FULL + PPVS", [izzi] HBO SIGNATURE HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492757
+#EXTINF:-1 tvg-id="492762" tvg-name="[izzi] HI SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/HISportslogo.png/revision/latest?cb=20230427055859&path-prefix=es" group-title="TV | IZZI FULL + PPVS", [izzi] HI SPORTS HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492762
+#EXTINF:-1 tvg-id="492763" tvg-name="[izzi] HISTORY 2 HD" tvg-logo="https://w7.pngwing.com/pngs/41/18/png-transparent-h2-television-channel-a-e-networks-history-h-miscellaneous-television-angle-thumbnail.png" group-title="TV | IZZI FULL + PPVS", [izzi] HISTORY 2 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492763
+#EXTINF:-1 tvg-id="492764" tvg-name="[izzi] HISTORY CHANNEL HD" tvg-logo="https://c0.klipartz.com/pngpicture/213/93/gratis-png-historia-canal-de-television-logo-nacional-geografico-historia-thumbnail.png" group-title="TV | IZZI FULL + PPVS", [izzi] HISTORY CHANNEL HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492764
+#EXTINF:-1 tvg-id="492769" tvg-name="[izzi] TV5 MONDE" tvg-logo="" group-title="TV | IZZI FULL + PPVS", [izzi] TV5 MONDE
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492769
+#EXTINF:-1 tvg-id="492770" tvg-name="[izzi] SKY SPORT 1 HD" tvg-logo="https://image.similarpng.com/file/similarpng/very-thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png" group-title="TV | IZZI FULL + PPVS", [izzi] SKY SPORT 1 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492770
+#EXTINF:-1 tvg-id="492771" tvg-name="[izzi] LIFETIME HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-us.png" group-title="TV | IZZI FULL + PPVS", [izzi] LIFETIME HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492771
+#EXTINF:-1 tvg-id="492790" tvg-name="[izzi]  SKY ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sky_One_-_Logo_2020_%28television_channel%29.png" group-title="TV | IZZI FULL + PPVS", [izzi]  SKY ONE HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492790
+#EXTINF:-1 tvg-id="492806" tvg-name="[izzi] MTV Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1078px-MTV_Live_2021_logo.svg.png" group-title="TV | IZZI FULL + PPVS", [izzi] MTV Classic HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492806
+#EXTINF:-1 tvg-id="492807" tvg-name="MULTIMEDIOS PLUS HD" tvg-logo="https://e7.pngegg.com/pngimages/797/402/png-clipart-multimedios-television-television-channel-monterrey-music-logo-television-logo-thumbnail.png" group-title="TV | IZZI FULL + PPVS", MULTIMEDIOS PLUS HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492807
+#EXTINF:-1 tvg-id="492839" tvg-name="[izzi] WARNER HD H265" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="TV | IZZI FULL + PPVS", [izzi] WARNER HD H265
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492839
+#EXTINF:-1 tvg-id="492841" tvg-name="[izzi] SKY LIVE EVENT 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sky_Live_2023.png/revision/latest?cb=20230827143048" group-title="TV | IZZI FULL + PPVS", [izzi] SKY LIVE EVENT 1 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492841
+#EXTINF:-1 tvg-id="492842" tvg-name="[izzi] SKY LIVE EVENT 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sky_Live_2023.png/revision/latest?cb=20230827143048" group-title="TV | IZZI FULL + PPVS", [izzi] SKY LIVE EVENT 2 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492842
+#EXTINF:-1 tvg-id="492843" tvg-name="[izzi] SKY LIVE EVENT 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sky_Live_2023.png/revision/latest?cb=20230827143048" group-title="TV | IZZI FULL + PPVS", [izzi] SKY LIVE EVENT 3 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492843
+#EXTINF:-1 tvg-id="492844" tvg-name="[izzi] SKY LIVE EVENT 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sky_Live_2023.png/revision/latest?cb=20230827143048" group-title="TV | IZZI FULL + PPVS", [izzi] SKY LIVE EVENT 4 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492844
+#EXTINF:-1 tvg-id="492845" tvg-name="[izzi] SKY LIVE EVENT 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sky_Live_2023.png/revision/latest?cb=20230827143048" group-title="TV | IZZI FULL + PPVS", [izzi] SKY LIVE EVENT 5 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492845
+#EXTINF:-1 tvg-id="492847" tvg-name="[izzi] SKY SPORTS 16 HD" tvg-logo="https://image.similarpng.com/file/similarpng/very-thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png" group-title="TV | IZZI FULL + PPVS", [izzi] SKY SPORTS 16 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492847
+#EXTINF:-1 tvg-id="492848" tvg-name="[izzi] SKY SPORTS 21 HD" tvg-logo="https://image.similarpng.com/file/similarpng/very-thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png" group-title="TV | IZZI FULL + PPVS", [izzi] SKY SPORTS 21 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492848
+#EXTINF:-1 tvg-id="492849" tvg-name="[izzi] SKY SPORTS LA LIGA - 2 HORAS HD" tvg-logo="https://image.similarpng.com/file/similarpng/very-thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png" group-title="TV | IZZI FULL + PPVS", [izzi] SKY SPORTS LA LIGA - 2 HORAS HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492849
+#EXTINF:-1 tvg-id="492850" tvg-name="[izzi] SKY ONE HD" tvg-logo="https://image.similarpng.com/file/similarpng/very-thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png" group-title="TV | IZZI FULL + PPVS", [izzi] SKY ONE HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492850
+#EXTINF:-1 tvg-id="494041" tvg-name="[izziTv] ANTENA 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antena3_int.png" group-title="TV | IZZI FULL + PPVS", [izziTv] ANTENA 3 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494041
+#EXTINF:-1 tvg-id="494042" tvg-name="[izziTv] ATRES SERIES HD" tvg-logo="https://seeklogo.com/images/A/atres-series-logo-3BA3503760-seeklogo.com.png" group-title="TV | IZZI FULL + PPVS", [izziTv] ATRES SERIES HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494042
+#EXTINF:-1 tvg-id="494044" tvg-name="[izziTv] AXN HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png" group-title="TV | IZZI FULL + PPVS", [izziTv] AXN HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494044
+#EXTINF:-1 tvg-id="494048" tvg-name="[izziTv] SKY BABY First" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="TV | IZZI FULL + PPVS", [izziTv] SKY BABY First
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494048
+#EXTINF:-1 tvg-id="494049" tvg-name="[izziTv] BANDAMAX HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/video_rola.png" group-title="TV | IZZI FULL + PPVS", [izziTv] BANDAMAX HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494049
+#EXTINF:-1 tvg-id="494051" tvg-name="[izziTv] BIT ME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png" group-title="TV | IZZI FULL + PPVS", [izziTv] BIT ME HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494051
+#EXTINF:-1 tvg-id="494052" tvg-name="[izziTv] CARTOONITO HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_global.png" group-title="TV | IZZI FULL + PPVS", [izziTv] CARTOONITO HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494052
+#EXTINF:-1 tvg-id="494055" tvg-name="[izziTv] CANAL 2 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png" group-title="TV | IZZI FULL + PPVS", [izziTv] CANAL 2 HQ
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494055
+#EXTINF:-1 tvg-id="494059" tvg-name="[izziTv] CANAL 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png" group-title="TV | IZZI FULL + PPVS", [izziTv] CANAL 5 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494059
+#EXTINF:-1 tvg-id="494062" tvg-name="[izziTv] FX HD" tvg-logo="https://playtv.mx/picons/usa.fxx.png" group-title="TV | IZZI FULL + PPVS", [izziTv] FX HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494062
+#EXTINF:-1 tvg-id="494063" tvg-name="[izziTv] GOLDEN EDGE SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-edge-mx.png" group-title="TV | IZZI FULL + PPVS", [izziTv] GOLDEN EDGE SD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494063
+#EXTINF:-1 tvg-id="494064" tvg-name="[izziTv] GOLDEN + HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-mx.png" group-title="TV | IZZI FULL + PPVS", [izziTv] GOLDEN + HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494064
+#EXTINF:-1 tvg-id="494065" tvg-name="[izziTv] GOLDEN MULTIPLEX" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden_multiplex.png" group-title="TV | IZZI FULL + PPVS", [izziTv] GOLDEN MULTIPLEX
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494065
+#EXTINF:-1 tvg-id="494066" tvg-name="[izziTv] GOLDEN  plus HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-premier-mx.png" group-title="TV | IZZI FULL + PPVS", [izziTv] GOLDEN  plus HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494066
+#EXTINF:-1 tvg-id="494067" tvg-name="[izziTv] GOLDEN PREMIER HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-premier-mx.png" group-title="TV | IZZI FULL + PPVS", [izziTv] GOLDEN PREMIER HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494067
+#EXTINF:-1 tvg-id="494068" tvg-name="[izziTv] GOLF CHANNEL HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="TV | IZZI FULL + PPVS", [izziTv] GOLF CHANNEL HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494068
+#EXTINF:-1 tvg-id="494070" tvg-name="[izziTv] HBO FAMILY HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_br.png" group-title="TV | IZZI FULL + PPVS", [izziTv] HBO FAMILY HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494070
+#EXTINF:-1 tvg-id="494082" tvg-name="[izziTv] HBO MUNDI HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-mundi-us.png" group-title="TV | IZZI FULL + PPVS", [izziTv] HBO MUNDI HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494082
+#EXTINF:-1 tvg-id="494100" tvg-name="[izziTv] HBO XTREME HD C" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png" group-title="TV | IZZI FULL + PPVS", [izziTv] HBO XTREME HD C
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494100
+#EXTINF:-1 tvg-id="494105" tvg-name="[izziTv] HBO2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_pl.png" group-title="TV | IZZI FULL + PPVS", [izziTv] HBO2 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494105
+#EXTINF:-1 tvg-id="494108" tvg-name="[izziTv] CANAL 9 HD" tvg-logo="https://cmll.com/wp-content/uploads/2021/01/01-H_Television-Fondo_Claro_A-1-1.png" group-title="TV | IZZI FULL + PPVS", [izziTv] CANAL 9 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494108
+#EXTINF:-1 tvg-id="494111" tvg-name="[izziTv] CANAL 22  HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-22-mexico-mx.png" group-title="TV | IZZI FULL + PPVS", [izziTv] CANAL 22  HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494111
+#EXTINF:-1 tvg-id="494112" tvg-name="[izziTv] TNT NOVELAS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png" group-title="TV | IZZI FULL + PPVS", [izziTv] TNT NOVELAS HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494112
+#EXTINF:-1 tvg-id="494115" tvg-name="[izziTv] LAS ESTRELLAS 2HRS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png" group-title="TV | IZZI FULL + PPVS", [izziTv] LAS ESTRELLAS 2HRS HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494115
+#EXTINF:-1 tvg-id="494170" tvg-name="[izziTv] MILENIO HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/milenio_tv.png" group-title="TV | IZZI FULL + PPVS", [izziTv] MILENIO HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494170
+#EXTINF:-1 tvg-id="494173" tvg-name="[izziTv] DE PELICULA HD" tvg-logo="https://e7.pngegg.com/pngimages/135/639/png-clipart-iptv-television-channel-set-top-box-android-tv-others-television-label-thumbnail.png" group-title="TV | IZZI FULL + PPVS", [izziTv] DE PELICULA HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494173
+#EXTINF:-1 tvg-id="494177" tvg-name="[izziTv] CANAL 9 HD" tvg-logo="https://e7.pngegg.com/pngimages/135/639/png-clipart-iptv-television-channel-set-top-box-android-tv-others-television-label-thumbnail.png" group-title="TV | IZZI FULL + PPVS", [izziTv] CANAL 9 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494177
+#EXTINF:-1 tvg-id="494180" tvg-name="[izziTv] CANAL 2 HD" tvg-logo="https://e7.pngegg.com/pngimages/135/639/png-clipart-iptv-television-channel-set-top-box-android-tv-others-television-label-thumbnail.png" group-title="TV | IZZI FULL + PPVS", [izziTv] CANAL 2 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494180
+#EXTINF:-1 tvg-id="494181" tvg-name="[izziTv] STUDIO UNIVERSAL HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal.png" group-title="TV | IZZI FULL + PPVS", [izziTv] STUDIO UNIVERSAL HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494181
+#EXTINF:-1 tvg-id="494183" tvg-name="[izziTv] BEISBOL LATINO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/1_Baseball_Network_Logo.png" group-title="TV | IZZI FULL + PPVS", [izziTv] BEISBOL LATINO HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494183
+#EXTINF:-1 tvg-id="494184" tvg-name="[izziTv] MTV HD" tvg-logo="https://w7.pngwing.com/pngs/706/865/png-transparent-nick-music-mtv-hits-television-channel-music-television-mtv-hits-idents-television-text-logo-thumbnail.png" group-title="TV | IZZI FULL + PPVS", [izziTv] MTV HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494184
+#EXTINF:-1 tvg-id="494187" tvg-name="[izziTv] MULTIMEDIOS PLUS HD" tvg-logo="https://e7.pngegg.com/pngimages/797/402/png-clipart-multimedios-television-television-channel-monterrey-music-logo-television-logo-thumbnail.png" group-title="TV | IZZI FULL + PPVS", [izziTv] MULTIMEDIOS PLUS HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494187
+#EXTINF:-1 tvg-id="494191" tvg-name="[izziTv] MULTIMEDIOS PLUS HD" tvg-logo="https://e7.pngegg.com/pngimages/797/402/png-clipart-multimedios-television-television-channel-monterrey-music-logo-television-logo-thumbnail.png" group-title="TV | IZZI FULL + PPVS", [izziTv] MULTIMEDIOS PLUS HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494191
+#EXTINF:-1 tvg-id="494222" tvg-name="[izziTv] SOLO PARA PAQUES" tvg-logo="https://e1.pngegg.com/pngimages/887/410/png-clipart-tv-channel-icons-music-mix-black-mirror-music-mix-logo-art.png" group-title="TV | IZZI FULL + PPVS", [izziTv] SOLO PARA PAQUES
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494222
+#EXTINF:-1 tvg-id="492879" tvg-name="[izzi] TNT  HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt_us.png" group-title="TV | IZZI FULL + PPVS", [izzi] TNT  HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492879
+#EXTINF:-1 tvg-id="494729" tvg-name="[izzi] DISTRITO COMEDIA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/distrito-comedia-mx.png" group-title="TV | IZZI FULL + PPVS", [izzi] DISTRITO COMEDIA HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494729
+#EXTINF:-1 tvg-id="494731" tvg-name="[izzi] RAI HD" tvg-logo="https://e7.pngegg.com/pngimages/865/157/png-clipart-rai-movie-film-rai-1-television-rai-television-blue.png" group-title="TV | IZZI FULL + PPVS", [izzi] RAI HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494731
+#EXTINF:-1 tvg-id="494732" tvg-name="[izzi] SONY HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_movies.png" group-title="TV | IZZI FULL + PPVS", [izzi] SONY HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494732
+#EXTINF:-1 tvg-id="500184" tvg-name="[izzi] UNIVERSAL HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv.png" group-title="TV | IZZI FULL + PPVS", [izzi] UNIVERSAL HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/500184
+#EXTINF:-1 tvg-id="500185" tvg-name="[izzi] UNIVERSAL CINEMA HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_cinema.png" group-title="TV | IZZI FULL + PPVS", [izzi] UNIVERSAL CINEMA HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/500185
+#EXTINF:-1 tvg-id="500186" tvg-name="[izzi] UNIVERSAL COMEDY  HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_comedy.png" group-title="TV | IZZI FULL + PPVS", [izzi] UNIVERSAL COMEDY  HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/500186
+#EXTINF:-1 tvg-id="500187" tvg-name="[izzi] UNIVERSAL PREMIERE  HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_premiere.png" group-title="TV | IZZI FULL + PPVS", [izzi] UNIVERSAL PREMIERE  HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/500187
+#EXTINF:-1 tvg-id="500188" tvg-name="[izzi] UNIVERSAL RALITY  HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_reality.png" group-title="TV | IZZI FULL + PPVS", [izzi] UNIVERSAL RALITY  HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/500188
+#EXTINF:-1 tvg-id="500189" tvg-name="[izzi] UNIVERSAL CRIME HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_crime.png" group-title="TV | IZZI FULL + PPVS", [izzi] UNIVERSAL CRIME HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/500189
+#EXTINF:-1 tvg-id="500190" tvg-name="[izzi] UNICABLE HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/unicable.png" group-title="TV | IZZI FULL + PPVS", [izzi] UNICABLE HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/500190
+#EXTINF:-1 tvg-id="500191" tvg-name="[izzi] SPACE HD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png" group-title="TV | IZZI FULL + PPVS", [izzi] SPACE HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/500191
+#EXTINF:-1 tvg-id="492759" tvg-name="[izzi] HBO2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_pl.png" group-title="TV | IZZI FULL + PPVS", [izzi] HBO2 HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492759
+#EXTINF:-1 tvg-id="494074" tvg-name="[izziTv] HBO FHD" tvg-logo="https://e7.pngegg.com/pngimages/914/277/png-clipart-hbo-television-channel-logo-television-show-design-television-text.png" group-title="TV | IZZI FULL + PPVS", [izziTv] HBO FHD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494074
+#EXTINF:-1 tvg-id="494075" tvg-name="[izziTv] HBO HD" tvg-logo="https://e7.pngegg.com/pngimages/914/277/png-clipart-hbo-television-channel-logo-television-show-design-television-text.png" group-title="TV | IZZI FULL + PPVS", [izziTv] HBO HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494075
+#EXTINF:-1 tvg-id="492752" tvg-name="[izzi] HBO FAMILY HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_br.png" group-title="TV | IZZI FULL + PPVS", [izzi] HBO FAMILY HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492752
+#EXTINF:-1 tvg-id="492754" tvg-name="[izzi] HBO MUNDI HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-mundi-us.png" group-title="TV | IZZI FULL + PPVS", [izzi] HBO MUNDI HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492754
+#EXTINF:-1 tvg-id="494089" tvg-name="[izziTv] HBO POP HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-pop-us.png" group-title="TV | IZZI FULL + PPVS", [izziTv] HBO POP HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494089
+#EXTINF:-1 tvg-id="494087" tvg-name="[izziTv] HBO PLUS HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png" group-title="TV | IZZI FULL + PPVS", [izziTv] HBO PLUS HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494087
+#EXTINF:-1 tvg-id="494094" tvg-name="[izziTv] HBO SIGNATURE HD" tvg-logo="https://logos.xbots.com.mx/3940.png" group-title="TV | IZZI FULL + PPVS", [izziTv] HBO SIGNATURE HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494094
+#EXTINF:-1 tvg-id="494099" tvg-name="[izziTv] HBO XTREME HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png" group-title="TV | IZZI FULL + PPVS", [izziTv] HBO XTREME HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494099
+#EXTINF:-1 tvg-id="492758" tvg-name="[izzi] HBO XTREME HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png" group-title="TV | IZZI FULL + PPVS", [izzi] HBO XTREME HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492758
+#EXTINF:-1 tvg-id="494119" tvg-name="[izziTv] LIFETIME HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-us.png" group-title="TV | IZZI FULL + PPVS", [izziTv] LIFETIME HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494119
+#EXTINF:-1 tvg-id="492801" tvg-name="[izzi] STAR CHANNEL PLUS HD" tvg-logo="https://e7.pngegg.com/pngimages/135/639/png-clipart-iptv-television-channel-set-top-box-android-tv-others-television-label-thumbnail.png" group-title="TV | IZZI FULL + PPVS", [izzi] STAR CHANNEL PLUS HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492801
+#EXTINF:-1 tvg-id="494073" tvg-name="[izziTv] HBO HQ" tvg-logo="https://e7.pngegg.com/pngimages/914/277/png-clipart-hbo-television-channel-logo-television-show-design-television-text.png" group-title="TV | IZZI FULL + PPVS", [izziTv] HBO HQ
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494073
+#EXTINF:-1 tvg-id="492804" tvg-name="[izzi] MTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_us.png" group-title="TV | IZZI FULL + PPVS", [izzi] MTV HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492804
+#EXTINF:-1 tvg-id="492805" tvg-name="[izzi] MTV HITS SD" tvg-logo="https://w7.pngwing.com/pngs/706/865/png-transparent-nick-music-mtv-hits-television-channel-music-television-mtv-hits-idents-television-text-logo-thumbnail.png" group-title="TV | IZZI FULL + PPVS", [izzi] MTV HITS SD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/492805
+#EXTINF:-1 tvg-id="591636" tvg-name="[izzi] DREAMWORKS HD" tvg-logo="https://e7.pngegg.com/pngimages/438/921/png-clipart-logo-dreamworks-animation-dreamworks-studios-animated-film-dreamworks-logo-text-logo.png" group-title="TV | IZZI FULL + PPVS", [izzi] DREAMWORKS HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/591636
+#EXTINF:-1 tvg-id="591637" tvg-name="[izzi] NATGEO HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica.png" group-title="TV | IZZI FULL + PPVS", [izzi] NATGEO HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/591637
+#EXTINF:-1 tvg-id="591638" tvg-name="[izzi] TELEHIT HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telehit.png" group-title="TV | IZZI FULL + PPVS", [izzi] TELEHIT HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/591638
+#EXTINF:-1 tvg-id="591639" tvg-name="[izzi] TELEMUNDO HD" tvg-logo="https://www.vhv.rs/dpng/d/129-1292431_telemundo-logo-png-transparent-png.png" group-title="TV | IZZI FULL + PPVS", [izzi] TELEMUNDO HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/591639
+#EXTINF:-1 tvg-id="591640" tvg-name="[izzi] TUDN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn.png" group-title="TV | IZZI FULL + PPVS", [izzi] TUDN HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/591640
+#EXTINF:-1 tvg-id="494050" tvg-name="[izziTv] BBC WORLD NEWS SD" tvg-logo="https://toppng.com/uploads/preview/bbc-news-logo-png-bbc-world-channel-logo-11563049882jqyf96g6u7.png" group-title="TV | IZZI FULL + PPVS", [izziTv] BBC WORLD NEWS SD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/494050
